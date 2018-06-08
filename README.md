@@ -14,6 +14,7 @@
 * [12. Integer to Roman](Directory/12.md)
 * [14. Longest Common Prefix](Directory/14.md)
 * [16. 3Sum Closest](Directory/16.md)
+* [17. Letter Combinations of a Phone Number](Directory/17.md)
 * [18. 4Sum](Directory/18.md)
 * [19. Remove Nth Node From End of List](Directory/19.md)
 * [20. Valid Parentheses](Directory/20.md)
