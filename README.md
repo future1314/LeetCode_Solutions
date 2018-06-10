@@ -1,6 +1,5 @@
 * Leetcode Solutions in Java  
 
-  QuestionList
   
 * [1. Two Sum](Directory/1.md)
 * [2. Add Two Numbers](Directory/2.md)
