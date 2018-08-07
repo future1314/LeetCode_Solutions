@@ -1,3 +1,4 @@
+//OJ: https://www.nowcoder.com/questionTerminal/3385982ae71d4a1ca8bf3d03614c0325?orderByHotValue=1&page=1&onlyReference=false
 import java.util.Scanner;
 
 public class Main{
