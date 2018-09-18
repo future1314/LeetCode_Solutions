@@ -1,5 +1,5 @@
 ```java
-//This is the Proxy Design pattern
+//This is the Proxy Design pattern, The difference between proxy and decorator is that proxy does not pass subject as parameter
 interface Subject{
     void request();
 }
