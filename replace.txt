@@ -109,7 +109,7 @@
     {
       "active": true,
       "case": "Maintain",
-      "repA": "IT",
+      "repA": "IT业",
       "repB": "",
       "type": "Simple"
     },
@@ -2683,364 +2683,819 @@
       "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "窒息",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "晒",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "李亚鹏",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "吴青峰",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "何洁",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "苏醒",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "腿",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "涨",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "跌",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "ofo",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "网友",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "人民币",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "出轨",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "台湾",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "王者荣耀",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "李咏",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "才华",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "艾滋病",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "妹妹",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "安慰",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "iOS",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "牛",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "外行",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "机械",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "张艺兴",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "华晨宇",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "黄子韬",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "手撕",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "硕士",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "博士",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "宾利",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "法拉利",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "雷",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "工资",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "好玩",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "学历",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "传销",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "出国",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "大佬",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "受益匪浅",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "数据分析",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "施工",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "单位",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "白手起家",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "成绩",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "实力",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "嫁",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "体面",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "惨",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "通胀",
       "repB": "",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": "大多数",
+      "repB": "",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "怎么样",
+      "repB": "",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "体制",
+      "repB": "",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "骚操作",
+      "repB": "",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "托福",
+      "repB": "",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "雅思",
+      "repB": "",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "GRE",
+      "repB": "",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "设计院",
+      "repB": "",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "初恋",
+      "repB": "",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "神经网络",
+      "repB": "",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "路人",
+      "repB": "",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "脸",
+      "repB": "",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "守望先锋",
+      "repB": "",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "高晓松",
+      "repB": "",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "一线",
+      "repB": "",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "大厂",
+      "repB": "",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "小米",
+      "repB": "",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "发布",
+      "repB": "",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "揭秘",
+      "repB": "",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "皮肤",
+      "repB": "",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "杭州",
+      "repB": "",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "成都",
+      "repB": "",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "恶心",
+      "repB": "",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "银行",
+      "repB": "",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "制服",
+      "repB": "",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "校园",
+      "repB": "",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "派出所",
+      "repB": "",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "刺客信条",
+      "repB": "",
+      "type": "Simple"
+    },
+    {
+      "repA": "潮",
       "repB": "",
       "type": "Simple",
       "case": "Maintain",
       "active": true
     },
     {
-      "repA": "怎么样",
+      "repA": "恋",
+      "repB": "",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": "设定",
+      "repB": "",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": "丝袜",
+      "repB": "",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": "王源",
+      "repB": "",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": "伯克利",
+      "repB": "",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": "易烊千玺",
+      "repB": "",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": "DOTA",
+      "repB": "",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": "操作",
+      "repB": "",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": "蔡",
+      "repB": "",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": "处",
+      "repB": "",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": "怎么",
+      "repB": "",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": "平头哥",
+      "repB": "",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": "王俊凯",
+      "repB": "",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": "于谦",
+      "repB": "",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": "马拉松",
+      "repB": "",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": "TFBOYS",
+      "repB": "",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": "寝室",
+      "repB": "",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": "情侣",
+      "repB": "",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": "papi",
+      "repB": "",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": "酱",
+      "repB": "",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": "吸毒",
+      "repB": "",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": "贷",
+      "repB": "",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": "南京",
+      "repB": "",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": "强奸",
+      "repB": "",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": "变态",
+      "repB": "",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": "自由",
+      "repB": "",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": "高三",
+      "repB": "",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": "套路",
+      "repB": "",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": "人类",
+      "repB": "",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": "印度",
+      "repB": "",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": "德云社",
+      "repB": "",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": "漫威",
+      "repB": "",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": "吐血",
+      "repB": "",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": "知识",
+      "repB": "",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": "西安",
+      "repB": "",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": "supreme",
+      "repB": "",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": "张艺谋",
+      "repB": "",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": "中年",
       "repB": "",
       "type": "Simple",
       "case": "Maintain",
